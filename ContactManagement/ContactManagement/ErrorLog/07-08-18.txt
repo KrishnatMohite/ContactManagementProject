@@ -1,0 +1,193 @@
+-----------Exception Details on  07-08-2018 11:00:26-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 07-08-2018 11:00:26
+
+Error Line No : nously)
+
+Error Message: AggregateException
+
+Exception Type: System.AggregateException
+
+Error Location : One or more errors occurred.
+
+ Error Page Url: http://localhost/ContactManagement/
+
+User Host IP: 
+
+
+System.Net.Http.HttpRequestException: An error occurred while sending the request. ---> System.Net.WebException: Unable to connect to the remote server ---> System.Net.Sockets.SocketException: No connection could be made because the target machine actively refused it 127.0.0.1:61126
+   at System.Net.Sockets.Socket.EndConnect(IAsyncResult asyncResult)
+   at System.Net.ServicePoint.ConnectSocketInternal(Boolean connectFailure, Socket s4, Socket s6, Socket& socket, IPAddress& address, ConnectSocketState state, IAsyncResult asyncResult, Exception& exception)
+   --- End of inner exception stack trace ---
+   at System.Net.HttpWebRequest.EndGetResponse(IAsyncResult asyncResult)
+   at System.Net.Http.HttpClientHandler.GetResponseCallback(IAsyncResult ar)
+   --- End of inner exception stack trace ---
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  07-08-2018 11:02:27-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 07-08-2018 11:02:27
+
+Error Line No : nously)
+
+Error Message: AggregateException
+
+Exception Type: System.AggregateException
+
+Error Location : One or more errors occurred.
+
+ Error Page Url: http://localhost/ContactManagement/
+
+User Host IP: 
+
+
+System.Net.Http.HttpRequestException: An error occurred while sending the request. ---> System.Net.WebException: Unable to connect to the remote server ---> System.Net.Sockets.SocketException: No connection could be made because the target machine actively refused it 127.0.0.1:61126
+   at System.Net.Sockets.Socket.EndConnect(IAsyncResult asyncResult)
+   at System.Net.ServicePoint.ConnectSocketInternal(Boolean connectFailure, Socket s4, Socket s6, Socket& socket, IPAddress& address, ConnectSocketState state, IAsyncResult asyncResult, Exception& exception)
+   --- End of inner exception stack trace ---
+   at System.Net.HttpWebRequest.EndGetResponse(IAsyncResult asyncResult)
+   at System.Net.Http.HttpClientHandler.GetResponseCallback(IAsyncResult ar)
+   --- End of inner exception stack trace ---
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  07-08-2018 11:04:18-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 07-08-2018 11:04:18
+
+Error Line No : nously)
+
+Error Message: AggregateException
+
+Exception Type: System.AggregateException
+
+Error Location : One or more errors occurred.
+
+ Error Page Url: http://localhost/ContactManagement/
+
+User Host IP: 
+
+
+System.Net.Http.HttpRequestException: An error occurred while sending the request. ---> System.Net.WebException: Unable to connect to the remote server ---> System.Net.Sockets.SocketException: No connection could be made because the target machine actively refused it 127.0.0.1:61126
+   at System.Net.Sockets.Socket.EndConnect(IAsyncResult asyncResult)
+   at System.Net.ServicePoint.ConnectSocketInternal(Boolean connectFailure, Socket s4, Socket s6, Socket& socket, IPAddress& address, ConnectSocketState state, IAsyncResult asyncResult, Exception& exception)
+   --- End of inner exception stack trace ---
+   at System.Net.HttpWebRequest.EndGetResponse(IAsyncResult asyncResult)
+   at System.Net.Http.HttpClientHandler.GetResponseCallback(IAsyncResult ar)
+   --- End of inner exception stack trace ---
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  07-08-2018 11:07:03-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 07-08-2018 11:07:03
+
+Error Line No : nously)
+
+Error Message: NullReferenceException
+
+Exception Type: System.NullReferenceException
+
+Error Location : Object reference not set to an instance of an object.
+
+ Error Page Url: http://localhost/ContactManagement/
+
+User Host IP: 
+
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  07-08-2018 11:08:36-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 07-08-2018 11:08:36
+
+Error Line No : nously)
+
+Error Message: NullReferenceException
+
+Exception Type: System.NullReferenceException
+
+Error Location : Object reference not set to an instance of an object.
+
+ Error Page Url: http://localhost/ContactManagement
+
+User Host IP: 
+
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  07-08-2018 11:13:32-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 07-08-2018 11:13:32
+
+Error Line No : nously)
+
+Error Message: NullReferenceException
+
+Exception Type: System.NullReferenceException
+
+Error Location : Object reference not set to an instance of an object.
+
+ Error Page Url: http://localhost/ContactManagement/
+
+User Host IP: 
+
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  07-08-2018 11:14:48-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 07-08-2018 11:14:48
+
+Error Line No : nously)
+
+Error Message: NullReferenceException
+
+Exception Type: System.NullReferenceException
+
+Error Location : Object reference not set to an instance of an object.
+
+ Error Page Url: http://localhost/ContactManagement/
+
+User Host IP: 
+
+
+
+--------------------------------*End*------------------------------------------
+
+
+

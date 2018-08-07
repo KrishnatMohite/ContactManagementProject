@@ -1,0 +1,21 @@
+C:\Program Files\Microsoft Visual Studio 12.0\ContactsProject\DataAccessLayer\bin\Debug\DataAccessLayer.dll
+C:\Program Files\Microsoft Visual Studio 12.0\ContactsProject\DataAccessLayer\bin\Debug\DataAccessLayer.pdb
+C:\Program Files\Microsoft Visual Studio 12.0\ContactsProject\DataAccessLayer\obj\Debug\DataAccessLayer.csprojResolveAssemblyReference.cache
+C:\Program Files\Microsoft Visual Studio 12.0\ContactsProject\DataAccessLayer\obj\Debug\DataAccessLayer.dll
+C:\Program Files\Microsoft Visual Studio 12.0\ContactsProject\DataAccessLayer\obj\Debug\DataAccessLayer.pdb
+C:\Program Files\Microsoft Visual Studio 12.0\ContactsProject\DataAccessLayer\bin\Debug\ContactsModel.dll
+C:\Program Files\Microsoft Visual Studio 12.0\ContactsProject\DataAccessLayer\bin\Debug\ContactsModel.pdb
+C:\ContactsProject\DataAccessLayer\bin\Debug\DataAccessLayer.dll
+C:\ContactsProject\DataAccessLayer\bin\Debug\DataAccessLayer.pdb
+C:\ContactsProject\DataAccessLayer\bin\Debug\ContactsModel.dll
+C:\ContactsProject\DataAccessLayer\bin\Debug\ContactsModel.pdb
+C:\ContactsProject\DataAccessLayer\obj\Debug\DataAccessLayer.dll
+C:\ContactsProject\DataAccessLayer\obj\Debug\DataAccessLayer.pdb
+C:\ContactsProject\DataAccessLayer\obj\Debug\DataAccessLayer.csprojResolveAssemblyReference.cache
+C:\ContactManagement\DataAccessLayer\bin\Debug\DataAccessLayer.dll
+C:\ContactManagement\DataAccessLayer\bin\Debug\DataAccessLayer.pdb
+C:\ContactManagement\DataAccessLayer\bin\Debug\ContactsModel.dll
+C:\ContactManagement\DataAccessLayer\bin\Debug\ContactsModel.pdb
+C:\ContactManagement\DataAccessLayer\obj\Debug\DataAccessLayer.csprojResolveAssemblyReference.cache
+C:\ContactManagement\DataAccessLayer\obj\Debug\DataAccessLayer.dll
+C:\ContactManagement\DataAccessLayer\obj\Debug\DataAccessLayer.pdb

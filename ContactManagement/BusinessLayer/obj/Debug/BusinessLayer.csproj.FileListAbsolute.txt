@@ -1,0 +1,27 @@
+C:\Program Files\Microsoft Visual Studio 12.0\ContactsProject\BusinessLayer\bin\Debug\BusinessLayer.dll
+C:\Program Files\Microsoft Visual Studio 12.0\ContactsProject\BusinessLayer\bin\Debug\BusinessLayer.pdb
+C:\Program Files\Microsoft Visual Studio 12.0\ContactsProject\BusinessLayer\obj\Debug\BusinessLayer.csprojResolveAssemblyReference.cache
+C:\Program Files\Microsoft Visual Studio 12.0\ContactsProject\BusinessLayer\obj\Debug\BusinessLayer.dll
+C:\Program Files\Microsoft Visual Studio 12.0\ContactsProject\BusinessLayer\obj\Debug\BusinessLayer.pdb
+C:\Program Files\Microsoft Visual Studio 12.0\ContactsProject\BusinessLayer\bin\Debug\ContactsModel.dll
+C:\Program Files\Microsoft Visual Studio 12.0\ContactsProject\BusinessLayer\bin\Debug\DataAccessLayer.dll
+C:\Program Files\Microsoft Visual Studio 12.0\ContactsProject\BusinessLayer\bin\Debug\ContactsModel.pdb
+C:\Program Files\Microsoft Visual Studio 12.0\ContactsProject\BusinessLayer\bin\Debug\DataAccessLayer.pdb
+C:\ContactsProject\BusinessLayer\bin\Debug\BusinessLayer.dll
+C:\ContactsProject\BusinessLayer\bin\Debug\BusinessLayer.pdb
+C:\ContactsProject\BusinessLayer\bin\Debug\ContactsModel.dll
+C:\ContactsProject\BusinessLayer\bin\Debug\DataAccessLayer.dll
+C:\ContactsProject\BusinessLayer\bin\Debug\ContactsModel.pdb
+C:\ContactsProject\BusinessLayer\bin\Debug\DataAccessLayer.pdb
+C:\ContactsProject\BusinessLayer\obj\Debug\BusinessLayer.csprojResolveAssemblyReference.cache
+C:\ContactsProject\BusinessLayer\obj\Debug\BusinessLayer.dll
+C:\ContactsProject\BusinessLayer\obj\Debug\BusinessLayer.pdb
+C:\ContactManagement\BusinessLayer\bin\Debug\BusinessLayer.dll
+C:\ContactManagement\BusinessLayer\bin\Debug\BusinessLayer.pdb
+C:\ContactManagement\BusinessLayer\bin\Debug\ContactsModel.dll
+C:\ContactManagement\BusinessLayer\bin\Debug\DataAccessLayer.dll
+C:\ContactManagement\BusinessLayer\bin\Debug\ContactsModel.pdb
+C:\ContactManagement\BusinessLayer\bin\Debug\DataAccessLayer.pdb
+C:\ContactManagement\BusinessLayer\obj\Debug\BusinessLayer.csprojResolveAssemblyReference.cache
+C:\ContactManagement\BusinessLayer\obj\Debug\BusinessLayer.dll
+C:\ContactManagement\BusinessLayer\obj\Debug\BusinessLayer.pdb

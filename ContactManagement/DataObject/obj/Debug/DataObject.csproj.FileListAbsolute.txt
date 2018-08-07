@@ -1,0 +1,17 @@
+C:\Program Files\Microsoft Visual Studio 12.0\ContactsProject\ContactsModel\bin\Debug\ContactsModel.dll
+C:\Program Files\Microsoft Visual Studio 12.0\ContactsProject\ContactsModel\bin\Debug\ContactsModel.pdb
+C:\Program Files\Microsoft Visual Studio 12.0\ContactsProject\ContactsModel\obj\Debug\ContactsModel.dll
+C:\Program Files\Microsoft Visual Studio 12.0\ContactsProject\ContactsModel\obj\Debug\ContactsModel.pdb
+C:\ContactsProject\ContactsModel\bin\Debug\ContactsModel.dll
+C:\ContactsProject\ContactsModel\bin\Debug\ContactsModel.pdb
+C:\ContactsProject\ContactsModel\obj\Debug\ContactsModel.dll
+C:\ContactsProject\ContactsModel\obj\Debug\ContactsModel.pdb
+C:\ContactsProject\DataObject\bin\Debug\ContactsModel.dll
+C:\ContactsProject\DataObject\bin\Debug\ContactsModel.pdb
+C:\ContactsProject\DataObject\obj\Debug\ContactsModel.dll
+C:\ContactsProject\DataObject\obj\Debug\ContactsModel.pdb
+C:\ContactManagement\DataObject\bin\Debug\ContactsModel.dll
+C:\ContactManagement\DataObject\bin\Debug\ContactsModel.pdb
+C:\ContactManagement\DataObject\obj\Debug\DataObject.csprojResolveAssemblyReference.cache
+C:\ContactManagement\DataObject\obj\Debug\ContactsModel.dll
+C:\ContactManagement\DataObject\obj\Debug\ContactsModel.pdb
